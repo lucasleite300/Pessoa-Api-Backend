@@ -1,4 +1,4 @@
-#PESSOAS-API
+# PESSOAS-API
 
 Simples crud para a manutenção de dados (_alunos_, _professores_ e _recepcionistas_) de uma academia
 
