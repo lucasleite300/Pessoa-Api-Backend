@@ -1,0 +1,11 @@
+{
+  "cpf": "60844437379",
+  "dataNascimento": "2015-06-21",
+  "diaPagamento": 12,
+  "email": "teste@teste.com",
+  "endereco": "rua 1",
+  "nome": "Lucas",
+  "sobrenome": "Leite",
+  "telefone": "98984222002",
+  "tipoPessoa": "asd"
+}
